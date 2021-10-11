@@ -1,5 +1,5 @@
 # 2D-to-3D-Blender-script
-Script converts pixels to objects in 3D software Blender
+The script converts pixels to objects in 3D software Blender
 For propper use copy the simpleimage library into Blender python files with images you want to work with.
 
 I include a demonstration video down here:
