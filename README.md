@@ -4,4 +4,4 @@ For propper use copy the simpleimage library into Blender python files with imag
 
 I include a demonstration video down here:
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/uTO8D86Xsuk/0.jpg)](https://www.youtube.com/watch?v=uTO8D86Xsuk "Demo Video")
+[![IMAGE ALT TEXT](http://i3.ytimg.com/vi/uTO8D86Xsuk/maxresdefault.jpg)](https://www.youtube.com/watch?v=uTO8D86Xsuk "Demo Video")
